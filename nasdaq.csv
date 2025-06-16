@@ -1,0 +1,21 @@
+Company,Symbol,Index Weight,Last Price,Volume
+"Microsoft",MSFT,"11.74%",460.36,2.24M
+"Nvidia",NVDA,"11.31%",135.13,6.38M
+"Apple",AAPL,"10.29%",200.85,62.80M
+"Amazon",AMZN,"7.47%",205.01,64.35M
+"Alphabet Inc. (Class C)",GOOG,"7.20%",172.85,5.97M
+"Alphabet Inc. (Class A)",GOOGL,"7.15%",171.74,7.00M
+"Meta Platforms",META,"5.59%",647.49,8.12M
+"Broadcom Inc.",AVGO,"3.90%",242.07,3.71M
+"Tesla",TSLA,"3.83%",346.46,0.72M
+"Netflix",NFLX,"1.76%",1207.23,2.22M
+"Costco",COST,"1.58%",1040.18,0.51M
+"Palantir Technologies",PLTR,"1.07%",131.78,0.98M
+"ASML Holding",ASML,"0.99%",736.77,0.44M
+"T-Mobile US",TMUS,"0.94%",242.20,0.52M
+"Cisco",CSCO,"0.86%",63.04,0.44M
+"AstraZeneca",AZN,"0.77%",72.83,0.28M
+"Linde plc",LIN,"0.76%",467.58,0.30M
+"Intuit",INTU,"0.72%",753.47,2.24M
+"Intuitive Surgical",ISRG,"0.68%",552.34,6.38M
+"PepsiCo",PEP,"0.62%",131.45,62.80M
